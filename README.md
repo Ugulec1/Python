@@ -11,9 +11,9 @@ Bu program, aşağıdaki adımları izleyerek noktalar arasındaki mesafeyi hesa
 3. **Mesafelerin Hesaplanması**: Bir döngü kullanılarak, `points` listesindeki her nokta çifti arasındaki mesafeler hesaplanır ve `distances` listesinde saklanır.
 4. **Minimum Mesafenin Bulunması**: Hesaplanan mesafeler arasından en küçük mesafe bulunur.
 
-## Kullanım
 
-### Adım 1: Repo'yu Klonlayın
+
+#: Repo'yu Klonlayın
 Projenin kodunu yerel bilgisayarınıza klonlayın:
 ```bash
 git clone https://github.com/Ugulec1/Python.git
